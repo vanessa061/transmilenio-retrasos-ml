@@ -22,5 +22,3 @@ va a tener retraso o no.
 ## Resultado
 El modelo tuvo una exactitud de 0.67 con los datos de prueba.
 
-## Video
-(link del video)
